@@ -1,12 +1,1 @@
-name = "cfnp"
-main = "_worker.js"
 compatibility_date = "2026-01-20"
-[vars]
-et = "yes"
-ev = "yes"
-ex = "yes"
-ech = "yes"
-ech = "yes"
-dkby = "yes"
-alpn = "h3,h2,http/1.1"
-homepage = "https://cloudflare-error-page-3th.pages.dev"
